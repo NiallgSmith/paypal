@@ -1,0 +1,4 @@
+.ideas 
+.idea 
+*.sqlite 
+*.pyc 
